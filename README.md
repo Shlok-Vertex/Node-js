@@ -1,4 +1,4 @@
-# Complete Guide to Node.js.   
+# Complete Guide to Node.js.  
 
 ![Node.js Logo](https://nodejs.org/static/images/logo.svg)
 
